@@ -93,11 +93,7 @@ Check out the live demo of the project:https://library-management-app-karan.verc
 
 ### 1. Clone the repository
 
-Clone the project repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/KaranMehta1806/Library-Management.git
-```
+Clone the project repository to your local machine
 
 ### 2. Install Dependencies
 Navigate to the frontend and backend directories, and install dependencies:
